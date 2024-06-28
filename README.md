@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Typing SVG by Snowby666 - https://github.com/snowby666/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=MG+Osman%2C+21%20LDN%20based;Script%20Enjoyer;%20Always%20learning%20new%20things&font=Fira%20Code¢er=true&width=440&height=45&color=2076DA&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=MG+Osman%2C+22%20LDN%20based;Script%20Enjoyer;%20Always%20learning%20new%20things&font=Fira%20Code¢er=true&width=440&height=45&color=2076DA&vCenter=true&pause=1000&size=22" />
 </p>
 
 
