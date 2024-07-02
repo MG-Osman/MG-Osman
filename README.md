@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=MG+Osman%2C+22%20LDN%20based;Script%20Enjoyer;%20Always%20learning%20new%20things&font=Fira%20Code¢er=true&width=440&height=45&color=2076DA&vCenter=true&pause=1000&size=22" />
 </p>
 
-
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -16,7 +15,7 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
    <a href="https://github.com/MG-Osman/MG-Visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mg-osman&repo=MG-Visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"%20alt="MG-Visualizer"></a>
-    <a href="https://github.com/MG-Osman/ytdlpGUI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mg-osman&repo=ytdlpGUI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"%20alt="Django-OpenCV-Video-Streaming"></a>
+    <a href="https://github.com/MG-Osman/FileUploader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mg-osman&repo=FileUploader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"%20alt="Django-OpenCV-Video-Streaming"></a>
     <a href="https://github.com/MG-Osman/ArduinoSafe"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mg-osman&repo=ArduinoSafe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="django-school-management-system"></a>
 
   </p>
